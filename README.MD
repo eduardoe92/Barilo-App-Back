@@ -4,9 +4,10 @@
 
 **Bariló** es una innovadora webapp diseñada para transformar la experiencia de los viajes de egresados en Argentina, haciéndolos accesibles y personalizados para todos los estudiantes, sin importar su situación económica.
 
-[Ir al Repositorio Frontend](https://github.com/igrowker/i003-barilo-front)
+| Repositorio Frontend | Sitio Web |
+|:-----------------------------------------------------------------------------:|:------------------------------------------------:|
+| <a href="https://github.com/igrowker/i003-barilo-front"><img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40"/></a> | <a href="https://barilo.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a> |
 
-[Despliegue Backend](https://barilo.onrender.com/barilo/api/swagger-ui/index.html#/)
 ### El Problema 🎓
 
 Los viajes de egresados, una tradición valiosa en la vida estudiantil argentina, se han vuelto inalcanzables para muchos jóvenes de bajos recursos. Esta situación genera exclusión y refuerza las diferencias sociales, haciendo que muchos estudiantes se vean obligados a renunciar a esta importante celebración.
