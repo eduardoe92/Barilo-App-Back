@@ -6,7 +6,7 @@
 
 | Repositorio Frontend | Sitio Web |
 |:-----------------------------------------------------------------------------:|:------------------------------------------------:|
-| <a href="https://github.com/igrowker/i003-barilo-front"><img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40"/></a> | <a href="https://barilo.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a> |
+| <a href="https://github.com/eduardoe92/Barilo-App-Front"><img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40"/></a> | <a href="https://barilo.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a> |
 
 ### El Problema 🎓
 
